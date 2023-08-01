@@ -1,4 +1,4 @@
-# ASAP_paper
+# ASAP paper
 In this repository you will have all the other repositories used for the ASAP paper
 
 * [ASAP source code](https://github.com/ericksepulveda/asap)
