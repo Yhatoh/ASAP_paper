@@ -7,4 +7,4 @@ In this repository you will have all the other repositories used for the ASAP pa
 * [S18 source code](https://github.com/HectorxH/Modificacion-S18)
 * [Zombit source code](https://github.com/adriangbrandon/zombit/blob/main/include/zombit_vector.hpp)
 * [FKKP source code](https://github.com/jfuentess/sdsl-lite)
-* [ARRFLM source code](https://github.com/Yhatoh/ASAP_paper/)
+* [ASAP-RFLM-index source code](https://github.com/carlosrojasmo/Arrflm)
